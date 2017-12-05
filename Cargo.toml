@@ -1,0 +1,6 @@
+[package]
+name = "random_walk"
+version = "0.1.0"
+authors = ["yuya yano <yuya.yano.6260@gmail.com>"]
+
+[dependencies]
